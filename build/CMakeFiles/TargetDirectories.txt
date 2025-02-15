@@ -1,0 +1,3 @@
+D:/cpp_works/PNP_WORK/build/CMakeFiles/aaaa.dir
+D:/cpp_works/PNP_WORK/build/CMakeFiles/edit_cache.dir
+D:/cpp_works/PNP_WORK/build/CMakeFiles/rebuild_cache.dir

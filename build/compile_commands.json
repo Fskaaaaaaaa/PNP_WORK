@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/cpp_works/PNP_WORK/build",
+  "command": "D:\\apps\\mingw64\\bin\\g++.exe  @CMakeFiles/aaaa.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\aaaa.dir\\src\\main.cpp.obj -c D:\\cpp_works\\PNP_WORK\\src\\main.cpp",
+  "file": "D:/cpp_works/PNP_WORK/src/main.cpp",
+  "output": "CMakeFiles/aaaa.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/cpp_works/PNP_WORK/build",
+  "command": "D:\\apps\\mingw64\\bin\\g++.exe  @CMakeFiles/aaaa.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\aaaa.dir\\src\\camera.cpp.obj -c D:\\cpp_works\\PNP_WORK\\src\\camera.cpp",
+  "file": "D:/cpp_works/PNP_WORK/src/camera.cpp",
+  "output": "CMakeFiles/aaaa.dir/src/camera.cpp.obj"
+},
+{
+  "directory": "D:/cpp_works/PNP_WORK/build",
+  "command": "D:\\apps\\mingw64\\bin\\g++.exe  @CMakeFiles/aaaa.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\aaaa.dir\\src\\do_match.cpp.obj -c D:\\cpp_works\\PNP_WORK\\src\\do_match.cpp",
+  "file": "D:/cpp_works/PNP_WORK/src/do_match.cpp",
+  "output": "CMakeFiles/aaaa.dir/src/do_match.cpp.obj"
+},
+{
+  "directory": "D:/cpp_works/PNP_WORK/build",
+  "command": "D:\\apps\\mingw64\\bin\\g++.exe  @CMakeFiles/aaaa.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\aaaa.dir\\src\\solve_pnp.cpp.obj -c D:\\cpp_works\\PNP_WORK\\src\\solve_pnp.cpp",
+  "file": "D:/cpp_works/PNP_WORK/src/solve_pnp.cpp",
+  "output": "CMakeFiles/aaaa.dir/src/solve_pnp.cpp.obj"
+},
+{
+  "directory": "D:/cpp_works/PNP_WORK/build",
+  "command": "D:\\apps\\mingw64\\bin\\g++.exe  @CMakeFiles/aaaa.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\aaaa.dir\\src\\warp.cpp.obj -c D:\\cpp_works\\PNP_WORK\\src\\warp.cpp",
+  "file": "D:/cpp_works/PNP_WORK/src/warp.cpp",
+  "output": "CMakeFiles/aaaa.dir/src/warp.cpp.obj"
+}
+]
